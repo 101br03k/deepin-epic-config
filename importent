@@ -4,7 +4,7 @@ cursor and icon theme on bloom dark
 
 #shortcuts
 terminal = ctrl `
-task manager = crtl shift `
+(deepin) task manager = crtl shift `
 file explorer = crtl shift E
 google chrome = crtl shift C
 start / launch application = super
