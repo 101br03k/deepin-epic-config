@@ -1,8 +1,8 @@
-install grub customizer
+#cursor and icons
 cursor and icon theme on bloom dark
 
 
-#shortcuts
+#keyboard shortcuts
 terminal = ctrl `
 (deepin) task manager = crtl shift `
 file explorer = crtl shift E
