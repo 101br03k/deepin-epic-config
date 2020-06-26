@@ -10,5 +10,5 @@ sudo pacman -S atom --noconfirm
 #install grub customizer
 sudo pacman -S grub-customizer --noconfirm
 
-#install sl
-sudo pacman -S sl --noconfirm
+#install sed
+sudo pacman -S sed --noconfirm
