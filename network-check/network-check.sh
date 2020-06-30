@@ -1,7 +1,7 @@
 #!/bin/sh
 clear
 date > ~/Documents/scripts/network-check/ping2.txt
-ping -c5 114.114.114.114 > ~/Documents/scripts/network-check/ping1.txt
+ping -c5 8.8.8.8 > ~/Documents/scripts/network-check/ping1.txt
 sed -i '9d' ~/Documents/scripts/network-check/ping1.txt
 sed -i '8d' ~/Documents/scripts/network-check/ping1.txt
 sed -i '7d' ~/Documents/scripts/network-check/ping1.txt
