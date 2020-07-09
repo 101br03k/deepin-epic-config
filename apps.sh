@@ -1,3 +1,6 @@
+#install google chrome
+sudo pacman -S google-chrome --noconfirm
+
 #install deepin system manager
 sudo pacman -S deepin-system-manager --noconfirm
 
