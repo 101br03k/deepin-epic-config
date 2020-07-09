@@ -47,13 +47,13 @@ echo "Installation of the development packages"
 ###############################################################################
 
 list=(
-firefox
+#firefox
 sublime-text-dev
 flameshot
 meld
 the_platinum_searcher-bin
-telegram-desktop
-discord
+#telegram-desktop
+#discord
 simplescreenrecorder
 scrot
 )
