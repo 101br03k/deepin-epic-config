@@ -27,4 +27,4 @@ neofetch | lolcat > ~/.bashrc
 
 #add conky default file and replace with my custom one
 mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
-sudo ~/linux-config/conky-config-file > ~/.config/conky/conky.conf
+
