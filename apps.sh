@@ -22,9 +22,6 @@ sudo pacman -S neofetch --noconfirm
 #install lolcat
 sudo pacman -S lolcat --noconfirm
 
-#add lolcat to neofetch for terminal
-neofetch | lolcat > ~/.bashrc
-
 #add conky default file and replace with my custom one
 mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
 
