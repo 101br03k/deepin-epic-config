@@ -38,7 +38,7 @@ conky.config = {
     draw_outline = false,
     draw_shades = false,
     extra_newline = false,
-    font = 'Monospace Regular:size=11',
+    font = 'Monospace Regular:size=10',
     gap_x = 20,
     gap_y = 20,
     minimum_height = 5,
@@ -56,13 +56,14 @@ conky.config = {
     show_graph_scale = false,
     stippled_borders = 0,
     update_interval = .5,
-    uppercase = true,
+    uppercase = false,
     use_spacer = 'none',
     use_xft = true,
 }
 
 conky.text = [[
 ${color gray}Info:${color } ${scroll 60 Conky - Arch Linux Arcolinuxd}
+${color grey}Kernen$color $kernel
 $hr
 ${color grey}Uptime:$color $uptime
 ${color grey}Frequency:$color $freq MHz
@@ -83,4 +84,3 @@ Up:$color Task Manager = CTRL + SHIFT + `
 Up:$color File Manager = CTRL + SHIFT + E
 Up:$color Google Chrome = CTRL + SHIFT + C
 ]]
-
