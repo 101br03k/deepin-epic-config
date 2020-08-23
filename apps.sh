@@ -22,6 +22,9 @@ sudo pacman -S neofetch --noconfirm
 #install lolcat
 sudo pacman -S lolcat --noconfirm
 
+#install xfce4-terminal
+sudo pacman -S xfce4-terminal --noconfirm
+
 #add conky default file and replace with my custom one
 mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
 
