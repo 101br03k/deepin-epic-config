@@ -26,5 +26,5 @@ sudo pacman -S lolcat --noconfirm
 sudo pacman -S xfce4-terminal --noconfirm
 
 #add conky default file and replace with my custom one
-mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
+mkdir -p ~/.config/conky && conky --print-config && ~/.config/conky/conky.conf > ~/.config/conky/conky.conf
 
