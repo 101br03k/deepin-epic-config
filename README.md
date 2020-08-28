@@ -1,2 +1,2 @@
-# deepin-epic-config
+# epic-config
 linux epic configuration
