@@ -79,8 +79,8 @@ ${color grey}Networking:
 Up:$color ${upspeed} ${color grey} - Down:$color ${downspeed}
 $hr
 ${color grey}Shortcuts:
-Up:$color Terminal = CTRL + `
-Up:$color Task Manager = CTRL + SHIFT + `
-Up:$color File Manager = CTRL + SHIFT + E
-Up:$color Google Chrome = CTRL + SHIFT + C
+$color Terminal = CTRL + `
+$color Task Manager = CTRL + SHIFT + `
+$color File Manager = CTRL + SHIFT + E
+$color Google Chrome = CTRL + SHIFT + C
 ]]
