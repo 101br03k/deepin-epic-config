@@ -62,7 +62,7 @@ conky.config = {
 }
 
 conky.text = [[
-${color gray}Info:${color } ${scroll 60 Conky - Arch Linux Arcolinuxd}
+${color gray}Info:${color } ${scroll 60 Conky - Arch Linux ArcolinuxD}
 ${color grey}Kernen$color $kernel
 $hr
 ${color grey}Uptime:$color $uptime
@@ -83,4 +83,6 @@ $color Terminal = CTRL + `
 $color Task Manager = CTRL + SHIFT + `
 $color File Manager = CTRL + SHIFT + E
 $color Google Chrome = CTRL + SHIFT + C
+$color Dekstop = CTRL + SHIFT + D
+$color Add/Remove Software = CTRL + SHIFT + X
 ]]

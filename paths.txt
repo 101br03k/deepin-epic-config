@@ -1,0 +1,5 @@
+xfce panel config file path:
+/home/a3/.config/xfce4/xfconf/xfce-perchannel-xml/
+
+conky config file path:
+/home/a3/.config/conky/
