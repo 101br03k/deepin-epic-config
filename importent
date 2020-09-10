@@ -8,3 +8,7 @@ terminal = ctrl `
 file explorer = crtl shift E
 google chrome = crtl shift C
 start / launch application = super
+
+#alias to do
+alias neofetch='neofetch | lolcat'
+alias sl='sl | lolcat'

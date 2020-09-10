@@ -22,6 +22,9 @@ sudo pacman -S neofetch --noconfirm
 #install lolcat
 sudo pacman -S lolcat --noconfirm
 
+#install sl
+sudo pacman -S sl --noconfirm
+
 #install xfce4-terminal
 sudo pacman -S xfce4-terminal --noconfirm
 
