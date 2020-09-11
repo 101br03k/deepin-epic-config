@@ -3,3 +3,6 @@ xfce panel config file path:
 
 conky config file path:
 /home/a3/.config/conky/
+
+alias
+~/.bashrc
