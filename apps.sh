@@ -1,9 +1,6 @@
 #install google chrome
 sudo pacman -S google-chrome --noconfirm
 
-#install deepin system manager
-sudo pacman -S deepin-system-manager --noconfirm
-
 #install conky
 sudo pacman -S conky --noconfirm
 
@@ -29,7 +26,6 @@ sudo pacman -S sl --noconfirm
 sudo pacman -S xfce4-terminal --noconfirm
 
 #add conky default file and replace with my custom one
-mkdir -p ~/.config/conky
-conky --print-config
-sudo ~/.config/conky/conky.conf > ~/.config/conky/conky.conf
+mkdir -p ~/.config/conky && conky --print-config && sudo ~/.config/conky/conky.conf > ~/.config/conky/conky.conf
 
+echo "#install ksysguard (a system monitor) by hand via add/remove software"
