@@ -44,33 +44,33 @@ done
 
 ###############################################################################
 
-func_category Development
+#func_category Development
 
-list=(
+#list=(
 
-)
+#)
 
-count=0
-for name in "${list[@]}" ; do
-	count=$[count+1]
-	tput setaf 3;echo "Installing package nr.  "$count " " $name;tput sgr0;
-	func_install $name
-done
+#count=0
+#for name in "${list[@]}" ; do
+#	count=$[count+1]
+#	tput setaf 3;echo "Installing package nr.  "$count " " $name;tput sgr0;
+#	func_install $name
+#done
 
 ###############################################################################
 
-func_category Graphics
+#func_category Grapics
 
-list=(
+#list=(
 
-)
+#)
 
-count=0
-for name in "${list[@]}" ; do
-	count=$[count+1]
-	tput setaf 3;echo "Installing package nr.  "$count " " $name;tput sgr0;
-	func_install $name
-done
+#count=0
+#for name in "${list[@]}" ; do
+#	count=$[count+1]
+#	tput setaf 3;echo "Installing package nr.  "$count " " $name;tput sgr0;
+#	func_install $name
+#done
 
 ###############################################################################
 
@@ -136,21 +136,6 @@ done
 
 ###############################################################################
 
-func_category Unpack
-
-list=(
-
-)
-
-count=0
-for name in "${list[@]}" ; do
-	count=$[count+1]
-	tput setaf 3;echo "Installing package nr.  "$count " " $name;tput sgr0;
-	func_install $name
-done
-
-###############################################################################
-
 tput setaf 11;
 echo "################################################################"
 echo "Software has been installed"
@@ -160,6 +145,7 @@ echo;tput sgr0
 ###############################################################################
 
 #add conky default file and replace with my custom one
-mkdir -p ~/.config/conky && conky --print-config && sudo ~/conky-config-file.conf > ~/.config/conky/conky.conf
+mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
 
-echo "#install ksysguard (a system monitor) by hand via add/remove software"
+echo "install ksysguard (a system monitor) by hand via add/remove software"
+echo "also replace the default conky config by the one in this file"
