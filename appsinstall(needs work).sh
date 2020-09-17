@@ -33,6 +33,7 @@ list=(
 conky
 grub-customizer
 lolcat
+banner
 )
 
 count=0
@@ -124,6 +125,7 @@ func_category System
 list=(
 sed
 neofetch
+cpufetch-git
 xfce4-terminal
 )
 

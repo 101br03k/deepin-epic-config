@@ -25,6 +25,12 @@ sudo pacman -S sl --noconfirm
 #install xfce4-terminal
 sudo pacman -S xfce4-terminal --noconfirm
 
+#install cpufetch
+sudo pacman -S cpufetch-git --noconfirm
+
+#install banner
+sudo pacman -S banner --noconfirm
+
 #add conky default file and replace with my custom one
 mkdir -p ~/.config/conky && conky --print-config && sudo ~/.config/conky/conky.conf > ~/.config/conky/conky.conf
 
