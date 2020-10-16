@@ -5,11 +5,11 @@ With my auto install script to install all the programs that i need
 This also includes a very large collection (arch/archo linux related) pictures 120+ (currently 121 pictures (11 september 2020, yes during corona))<br>
 like this one<br>
 <class id="pictures" content-alin="center">
-<img src="https://github.com/101br03k/linux-config/blob/master/images/180713.jpg" width="400" height="270">
-<img src="https://github.com/101br03k/linux-config/blob/master/images/180675.jpg" width="400" height="270"><br>
-<img src="https://github.com/101br03k/linux-config/blob/master/images/180683.jpg" width="270" height="180">
-<img src="https://github.com/101br03k/linux-config/blob/master/images/180678.jpg" width="270" height="180">
-<img src="https://github.com/101br03k/linux-config/blob/master/images/180690.jpg" width="270" height="180">
+<img src="https://github.com/101br03k/linux-config/blob/master/images/180713.jpg" width="400" height="266">
+<img src="https://github.com/101br03k/linux-config/blob/master/images/180675.jpg" width="400" height="266"><br>
+<img src="https://github.com/101br03k/linux-config/blob/master/images/180683.jpg" width="270" height="152">
+<img src="https://github.com/101br03k/linux-config/blob/master/images/180678.jpg" width="270" height="152">
+<img src="https://github.com/101br03k/linux-config/blob/master/images/180690.jpg" width="270" height="152">
 </class>
 
 On this github page is also my custom conky config file
