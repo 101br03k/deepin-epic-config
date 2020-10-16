@@ -23,5 +23,6 @@ $ chmod u + x git-v1.sh
 and otherwise just do:
 $ ./git-v1.sh
 
-
-&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb&nsb<img src="https://github.com/favicon.ico" width="24" height="24">
+<br>
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/favicon.ico" width="24" height="24">
