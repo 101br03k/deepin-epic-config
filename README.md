@@ -3,7 +3,7 @@ Linux epic configuration
 With my auto install script to install all the programs that i need
 
 This also includes a very large collection (arch/archo linux related) pictures 120+ (currently 121 pictures (11 september 2020, yes during corona))<br>
-like this one<br>
+like this couple of pictures wich are located below here<br>
 <class id="pictures" content-alin="center">
 <img src="https://github.com/101br03k/linux-config/blob/master/images/180713.jpg" width="400" height="266">
 <img src="https://github.com/101br03k/linux-config/blob/master/images/180675.jpg" width="400" height="266"><br>
