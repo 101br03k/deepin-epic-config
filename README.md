@@ -25,4 +25,4 @@ $ ./git-v1.sh
 
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/favicon.ico" width="24" height="24">
+powerd by:<img src="https://github.com/favicon.ico" width="24" height="24">
