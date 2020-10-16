@@ -18,10 +18,14 @@ And also my xfce panel config file
 
 And of course the world famous git push script for pushing changes form my vm to github<br>
 if its the first time also run this one<br>
+'''
 $ chmod u + x git-v1.sh
+'''
 
 and otherwise just do:
+'''
 $ ./git-v1.sh
+'''
 
 <br>
 powerd by:<img src="https://github.com/favicon.ico" width="24" height="24">
