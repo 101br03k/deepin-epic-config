@@ -15,3 +15,9 @@ On this github page is also my custom conky config file
 And also my xfce panel config file
 
 And of course the world famous git push script for pushing changes form my vm to github
+wich you can run with
+if its the first time also run this one
+$ chmod u + x git-v1.sh
+
+and otherwise just do:
+$ ./git-v1.sh
