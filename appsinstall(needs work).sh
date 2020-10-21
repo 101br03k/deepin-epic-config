@@ -34,6 +34,13 @@ conky
 grub-customizer
 lolcat
 banner
+figlet
+asciiquarium
+cowfortune
+bash-pipes
+cava
+tty-clock
+
 )
 
 count=0
@@ -127,6 +134,10 @@ sed
 neofetch
 cpufetch-git
 xfce4-terminal
+cool-retro-term
+bashtop
+mc
+ranger
 )
 
 count=0
