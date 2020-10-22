@@ -29,7 +29,7 @@ $ ./git-v1.sh
 
 
 below here is the graph with of the pictures:
-<img src="https://github.com/101br03k/linux-config/blob/master/images/graphs/graph-of-pictures.png" width="600" height="450"> 
+<img src="https://github.com/101br03k/linux-config/blob/master/images/graphs/graph-of-pictures.png" width="300" height="225"> 
 
 
 <br>
