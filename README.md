@@ -27,5 +27,10 @@ and otherwise just do:
 $ ./git-v1.sh
 ```
 
+
+below here is the graph with of the pictures:
+<img src="https://github.com/101br03k/linux-config/blob/master/images/graphs/graph-of-pictures.png" width="400" height="266"> 
+
+
 <br>
 powerd by:<img src="https://github.com/favicon.ico" width="24" height="24">
