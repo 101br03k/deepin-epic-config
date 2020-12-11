@@ -161,4 +161,4 @@ echo;tput sgr0
 mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
 
 echo "install ksysguard (a system monitor) by hand via add/remove software"
-echo "also replace the default conky config by the one in this file"
+echo "also replace the default conky config by the one in this folder"
