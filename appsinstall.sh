@@ -137,6 +137,7 @@ cpufetch-git
 xfce4-terminal
 cool-retro-term
 bashtop
+bpytop
 mc
 ranger
 )
