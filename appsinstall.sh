@@ -101,6 +101,7 @@ func_category Multimedia
 
 list=(
 vlc
+ncmpcpp
 )
 
 count=0
