@@ -40,6 +40,7 @@ cowfortune
 bash-pipes
 cava
 tty-clock
+xarg
 
 )
 
