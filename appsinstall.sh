@@ -136,6 +136,7 @@ sed
 neofetch
 cpufetch-git
 xfce4-terminal
+tilix
 cool-retro-term
 bashtop
 bpytop
