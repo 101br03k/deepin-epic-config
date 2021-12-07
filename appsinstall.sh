@@ -87,6 +87,8 @@ func_category Internet
 
 list=(
 google-chrome
+tor
+qbittorrent
 )
 
 count=0
