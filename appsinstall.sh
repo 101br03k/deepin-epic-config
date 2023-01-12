@@ -166,5 +166,6 @@ echo;tput sgr0
 #add conky default file and replace with my custom one
 mkdir -p ~/.config/conky && conky --print-config > ~/.config/conky/conky.conf
 
+curl -sSL https://github.com/Slackadays/Clipboard/raw/main/install.sh | bash
 echo "install ksysguard (a system monitor) by hand via add/remove software"
 echo "also replace the default conky config by the one in this folder"
