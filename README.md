@@ -26,11 +26,3 @@ and otherwise just do:
 ```
 $ ./git-v1.sh
 ```
-
-
-below here is the graph to see the pictures over time: <br>
-<img src="https://github.com/101br03k/linux-config/blob/master/images/graphs/graph-of-pictures.jpeg" width="600" height="375"> 
-
-
-<br>
-powerd by:<img src="https://github.com/favicon.ico" width="24" height="24">
